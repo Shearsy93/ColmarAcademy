@@ -105,7 +105,7 @@ a {
 
 .bannertext .btn {
     padding: 1rem;
-    background-color: #1c91c7;
+    background-color: #3498DB;
     color: #F3F5F5;
     text-align: center;
     margin-top: 1.5rem;
@@ -141,17 +141,21 @@ a {
 .infoLeft h3 {
     font-size: 2rem;
     font-weight: 600;
+    margin-top: 20px;
 }
 
 .infoLeft p {
     color: #7A7A7A;
     font-weight: 300;
     line-height: 1.5;
+    margin-top: 20px;
+
 }
 
 p.quoted-by {
     color: #7A7A7A;
     font-size: 0.8rem;
+    margin-top: 20px;
 }
 
 .infoRight {
@@ -166,7 +170,7 @@ p.quoted-by {
 }
 
 .infoArticle:hover, .thesisinfoArticle:hover {
-  background: #555;
+  background: #D3D3D3;
 }
 
 .infoArticle.flex.noborder {
@@ -279,13 +283,14 @@ video {
 
 .thesisLeft h3 {
     font-size: 1.3rem;
-
+    margin-top: 20px;
 }
 
 .thesisLeft p {
     color: #7A7A7A;
     font-weight: 300;
     line-height: 1.5;
+    margin-top: 20px;
 }
 
 .thesisRight {
@@ -314,6 +319,7 @@ footer.container {
 
 .footerright p {
     padding-left: 1rem;
+    margin-top: 20px;
 }
 
 .mobile {
